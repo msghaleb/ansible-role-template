@@ -1,0 +1,11 @@
+galaxy_info:
+  description: "..."
+  min_ansible_version: 1.9.6
+  platforms:
+  - name: ...
+    versions:
+    - ...
+    - ...
+  categories:
+  - system
+dependencies: []
